@@ -1,15 +1,24 @@
 ![Banner_2 0_Transparent](https://user-images.githubusercontent.com/66183221/236266575-7670e4b3-205d-41ca-ad18-83a36cf82c83.png)
 
 
-<h1>My name is Nabil Shelim.</h1>
+# My name is Nabil Shelim.
+Hey there! I'm a self-taught programmer with a love for all things game development. Over the past 6 years, I've taken my passion for programming and turned it into a full-blown obsession with creating games. And let me tell you, it's been an exciting ride!
 
-I'm a self-taught programmer from Bangladesh who loves both making and playing video games. I have been programming for about 4 years, using both the Unity and the Godot game engine. In terms of programming, I have been programming in both C# and C++ programming languages. I enjoy making games because I get to do the technical and nitty-gritty things related to making a game and also because I get to partially experience what goes into making such awesome games out there.
+I've got a solid background in Unity game engine, but I love to branch out and try new things. Hence, I have also dabbled in the world of Godot and Unreal Engine
 
-<h2>My expertise</h2>
-<ul>
-<li>Comfortable at programming with C# and C++.</i>
+I've worked with all sorts of clients and startup indie studios, lending my expertise to bring their **Game Ideas** to **life**. And as a freelancer, I get the thrill of taking on new projects and challenges all the time.
 
-<li>Very comfortable and efficient at using the Unity Game Engine, as I have been using it for more than 5 years. You can check out the games I have made over here: [Games](https://clumsywizard.itch.io/)</i>
+I'm always looking to improve my skills and take on new challenges in the world of game development. Whether I'm working with a team or flying solo, I bring my passion, creativity, and technical know-how to every project.
 
-<li>Good understanding of the Godot Game Engine.</i>
- </ul>
+## My expertise
+- 6 years of experience.
+- Highly proficient at using C#.
+- Comfortable at programming with C++.
+- Experience making gameplay mechanics from multiple genres.
+- Extensive experience using Unity game engine. You can check out the games I have made over here: <a href="https://www.nabilshelim.com/#/portfoli" target="_blank">Portfolio</a>
+- Familiarity with Godot and Unreal game engines.
+- Worked with clients and startup indie studios to bring their game ideas to life. Taking a game from paper, all the way to a finished and polished product.
+- Track record of delivering high-quality results.
+- Passionate about game development and continuously expanding knowledge and skills.
+- Self-starter with a willingness to take on new challenges.
+- Intermediate experience with HTML, CSS, javascript, MongoDB, and React.
