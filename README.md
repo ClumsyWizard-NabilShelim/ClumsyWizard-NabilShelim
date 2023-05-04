@@ -15,7 +15,7 @@ I'm always looking to improve my skills and take on new challenges in the world 
 - Highly proficient at using C#.
 - Comfortable at programming with C++.
 - Experience making gameplay mechanics from multiple genres.
-- Extensive experience using Unity game engine. You can check out the games I have made over here: <a href="https://www.nabilshelim.com/#/portfoli" target="_blank">Portfolio</a>
+- Extensive experience using Unity game engine. You can check out the games I have made over here: <a href="https://www.nabilshelim.com/#/portfolio" target="_blank">Portfolio</a>
 - Familiarity with Godot and Unreal game engines.
 - Worked with clients and startup indie studios to bring their game ideas to life. Taking a game from paper, all the way to a finished and polished product.
 - Track record of delivering high-quality results.
