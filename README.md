@@ -2,7 +2,7 @@
 
 
 # My name is Nabil Shelim.
-Hey there! I'm a self-taught programmer with a love for all things game development. Over the past 7 years, I've taken my passion for programming and turned it into a full-blown obsession with creating games. And let me tell you, it's been an exciting ride!
+Hey there! I'm a self-taught programmer with a love for all things game development. Over the past 8 years, I've taken my passion for programming and turned it into a full-blown obsession with creating games. And let me tell you, it's been an exciting ride!
 
 I've got a solid background in Unity game engine, but I love to branch out and try new things. Hence, I have also dabbled in the world of Godot and Unreal Engine
 
