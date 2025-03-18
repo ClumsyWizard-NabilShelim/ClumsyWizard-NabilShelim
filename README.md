@@ -11,7 +11,7 @@ I've worked with all sorts of clients and startup indie studios, lending my expe
 I'm always looking to improve my skills and take on new challenges in the world of game development. Whether I'm working with a team or flying solo, I bring my passion, creativity, and technical know-how to every project.
 
 ## My expertise
-- 7 years of experience.
+- 8 years of experience.
 - Highly proficient at using C#.
 - Comfortable at programming with C++.
 - Experience making gameplay mechanics from multiple genres.
