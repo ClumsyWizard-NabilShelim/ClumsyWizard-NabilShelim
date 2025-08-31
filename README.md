@@ -1,6 +1,3 @@
-![Banner_2 0_Transparent](https://user-images.githubusercontent.com/66183221/236266575-7670e4b3-205d-41ca-ad18-83a36cf82c83.png)
-
-
 # My name is Nabil Shelim.
 Hey there! I'm a self-taught programmer with a love for all things game development. Over the past 8 years, I've taken my passion for programming and turned it into a full-blown obsession with creating games. And let me tell you, it's been an exciting ride!
 
