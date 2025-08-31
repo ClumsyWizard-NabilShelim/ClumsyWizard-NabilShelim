@@ -1,11 +1,22 @@
-# My name is Nabil Shelim.
-Hey there! I'm a self-taught programmer with a love for all things game development. Over the past 8 years, I've taken my passion for programming and turned it into a full-blown obsession with creating games. And let me tell you, it's been an exciting ride!
+# Hello there! My name is Nabil Shelim.
+I'm an experienced Game Programmer with 8 years of programming expertise and over 5 years of professional experience in game development. Proficient in Unity and C#, with a strong track record of delivering high-quality gameplay systems, tools, and performance optimizations. I enjoy writing low-level code and taking on the challenges that come with it and I'm passionate about game engine creation, graphics API's and computer hardware.
 
-I've got a solid background in Unity game engine, but I love to branch out and try new things. Hence, I have also dabbled in the world of Godot and Unreal Engine
+I have successfully collaborated with solo developers, small teams, and indie studios to develop and ship over a dozen polished titles. Released projects span multiple platforms:
 
-I've worked with all sorts of clients and startup indie studios, lending my expertise to bring their **Game Ideas** to **life**. And as a freelancer, I get the thrill of taking on new projects and challenges all the time.
+- Steam
+- Itch.io
+- Android
+- iOS
 
-I'm always looking to improve my skills and take on new challenges in the world of game development. Whether I'm working with a team or flying solo, I bring my passion, creativity, and technical know-how to every project.
+And cover a variety of genres:
+
+- Platformers
+- Card games
+- Strategy games
+- Tower Defense
+- Turn-based games
+- Story-rich games
+- Multiplayer games
 
 ## My expertise
 - 8 years of experience.
@@ -15,7 +26,3 @@ I'm always looking to improve my skills and take on new challenges in the world 
 - Extensive experience using Unity game engine. You can check out the games I have made over here: <a href="https://www.nabilshelim.com/#/portfolio" target="_blank">Portfolio</a>
 - Familiarity with Godot and Unreal game engines.
 - Worked with clients and startup indie studios to bring their game ideas to life. Taking a game from paper, all the way to a finished and polished product.
-- Track record of delivering high-quality results.
-- Passionate about game development and continuously expanding knowledge and skills.
-- Self-starter with a willingness to take on new challenges.
-- Intermediate experience with HTML, CSS, javascript, MongoDB, and React.
